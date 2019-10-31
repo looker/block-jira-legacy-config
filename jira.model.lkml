@@ -24,3 +24,8 @@ explore: project_config {
   extends: [project_core]
   extension: required
 }
+
+explore: epic_config {
+  extends: [epic_core]
+  extension: required
+}
